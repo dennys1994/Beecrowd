@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1684362079 source:e:\estudos\07 - c\02 - beecrowd\1574 - instruções do robo nv2\instrucoesrobo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
